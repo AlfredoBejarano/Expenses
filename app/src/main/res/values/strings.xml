@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mis Gastos</string>
+    <string name="account_balance">$ 3,500.00</string>
+    <string name="expense_name">Gasto</string>
+    <string name="expense_name_hint">¿En que gastaste?</string>
+    <string name="expense_quantity_hint">¿Cuánto gastaste?</string>
+    <string name="add_expense">Añadir Gasto</string>
+    <string name="close">Cerrar</string>
+</resources>
